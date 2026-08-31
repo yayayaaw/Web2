@@ -1,0 +1,6 @@
+{
+  "name": "Sweater Weather Coffee",
+  "description": "Ruang untuk menikmati kopi dengan cara yang sederhana - Sweater Weather Coffee Cirebon",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
